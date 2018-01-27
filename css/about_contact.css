@@ -1,0 +1,87 @@
+
+@charset "utf-8";
+header {
+	height:0.90rem;
+	background-color:#d04e1b;
+	width:100%;
+}
+header .logo{
+	float:left;
+	width:0.73rem;
+	height:0.73rem;
+	margin:0.08rem 0 0 0.39rem;
+	
+}
+header .logo img{
+	width:100%;
+	float: left;
+}
+header  ul{
+	float:right;
+	margin-right:1.2rem;
+}
+header  ul li{
+	float:left;
+	text-align:center;
+	width:1.49rem;
+	line-height:0.89rem;
+	color:#fff;
+	font-size:0.24rem;
+}
+
+header  ul li span{
+	width:0.01rem;
+	height:0.33rem;
+	background:#fff;
+	line-height:0.89rem;
+	float:right;
+	margin-top: 0.28rem;
+}
+.title{
+	font-size:0.48rem;
+	border-left:0.05rem solid #b03708;
+	margin:0.44rem 0 0 0.24rem;
+	height:0.54rem;
+	padding-left:0.15rem;
+	line-height:0.54rem;
+}
+.pic{
+	text-align:center;
+	height:4.07rem;
+}
+.pic img{
+	width:5.76rem;
+	
+}
+.text{
+	font-size:0.27rem;
+	line-height:0.53rem;
+	margin-top:0.25rem;
+	width:6.37rem;
+	margin:0 auto;
+}
+.text p{
+	text-indent:2em;
+}
+
+.contact_text h3{
+	font-size:0.38rem;
+	color:#b03708;
+	line-height:0.6rem;
+	margin-top:0.12rem;
+}
+
+.contact_text {
+	width:5.03rem;
+	margin:0 auto;
+}
+.contact_text li{
+	font-size:0.25rem;
+	line-height:0.54rem;
+}
+.map{
+	width:6.34rem;
+	height:5.36rem;
+	margin:0 auto;
+}
+

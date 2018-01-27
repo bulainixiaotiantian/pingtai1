@@ -1,0 +1,91 @@
+
+@charset "utf-8";
+.head_top .logo {
+    width: 1.2rem;
+    text-align:center;
+    float: left;
+    margin-left: 0.21rem;
+    line-height: 0.25rem;
+    margin-top: 0.07rem;
+    font-size: 0.18rem;
+    color: #fff;
+}
+
+.head_top .logo img {
+    width: 0.67rem;
+    height: 0.69rem;
+    border-radius:7px;
+}
+.head_top h3{
+	float: left;
+	font-size: 0.48rem;
+	color: #fff;
+	line-height: 1.08rem;
+	margin-left: 0.23rem;
+}
+header{
+    z-index: 100;
+    width: 100%;
+    height: 1.3rem;
+    background:#ac7f1c;
+
+}
+.shouye_icon{
+	background-size: contain;
+    width: 0.54rem;
+    float: right;
+    height: 0.51rem;
+    margin: 0.29rem 0.2rem;
+    background-image: url(../images/home.png);
+}
+.swiper-pagination{
+	bottom: 0.02rem!important;
+}
+.xianqu_list{
+	padding-top: 0.29rem;
+	margin-top: 0.4rem;
+	border-top: 3px solid #d04e1b;
+	position: relative;
+}
+.xianqu_list .title{
+    width: 1.80rem;
+    line-height: 0.82rem;
+    height: 0.82rem;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    right: 50%;
+    margin-left: -0.9rem;
+    top: -0.4rem;
+    background: rgb(255, 255, 255);
+    color: #e76430;
+    font-size: 0.3rem;
+}
+#banner img{
+	float: left;
+}
+.xianqu_list ul{
+	width: 7.15rem;
+	margin: 0 auto;
+}
+	
+.xianqu_list li{
+	margin: 0.2rem 0;
+}
+footer{
+	text-align: center;
+	font-family: "宋体";
+	color: #615f5f;
+	
+}
+footer h4 {
+    font-size: 0.24rem;
+    border-bottom: 1px solid #dbd8d8;
+    line-height: 0.71rem;
+    font-weight: normal;
+}
+footer h5{
+	 font-size: 0.20rem;
+     line-height: 0.71rem;
+     font-weight: normal;
+}
